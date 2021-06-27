@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kingofsoq
 - 👀 I’m interested in networking & servers
 - 🌱 I’m currently learning some snake, and lil bit php
-- 💞️ I’m looking to collaborate on ...
 - 📫 Find me on @kingofsoq 
 
 <!---
